@@ -30,7 +30,7 @@ This is my first simple project that used html and figma for design to help lear
 
 ### What I learned
 
-How to navigatie and utilize github.
+How to navigatie and utilize github
 
 Some basics of html editing
 

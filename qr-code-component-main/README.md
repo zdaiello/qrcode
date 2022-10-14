@@ -16,15 +16,8 @@ This is my first simple project that used html and figma for design to help lear
 
 ### Screenshots
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+<img width="1440" alt="Desktop - Copy" src="https://user-images.githubusercontent.com/115808095/195911742-b77820c9-fa8a-446d-8133-bbc842937ca2.png">
+<img width="375" alt="Mobile" src="https://user-images.githubusercontent.com/115808095/195911745-20c50ea2-c9b1-48f8-bd95-c1993d5c2f58.png">
 
 
 

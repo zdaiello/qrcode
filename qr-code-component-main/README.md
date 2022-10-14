@@ -5,8 +5,7 @@ This is my first simple project that used html and figma for design to help lear
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Screenshots](#screenshots)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -16,7 +15,7 @@ This is my first simple project that used html and figma for design to help lear
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
 ![](./screenshot.jpg)
 
@@ -30,7 +29,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 
 
-### Built with using
+### Built with
 
 - Github
 - HTML

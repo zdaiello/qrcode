@@ -11,7 +11,6 @@ This is my first simple project that used html and figma for design to help lear
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
